@@ -1,3 +1,6 @@
+#  Project initially created on: July 10, 2025
+
+
 # E-commerce Website Project
 
 This is a simple e-commerce website built with **HTML**, **CSS**, and **JavaScript**.
