@@ -1,4 +1,4 @@
-#  Project initially created on: July 10, 2025
+## Project initially created on: July 24, 2025
 
 
 # E-commerce Website Project
