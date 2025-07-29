@@ -16,7 +16,7 @@ This is a simple e-commerce website built with **HTML**, **CSS**, and **JavaScri
 
 A short video is also included in the repository showing the site in action.
 
-## Note
+
 
 
 
